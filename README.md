@@ -1,4 +1,4 @@
-# Nokia SR OS EVPN over MPLS Lab
+# Nokia SR OS EVPN over MPLS with RSVP Lab
 | Items | Description |
 | --- | --- |
 | Description | A lab to demonstrate EVPN over MPLS on Nokia SR OS with containerlab |
